@@ -27,7 +27,7 @@ def play_forca():
             index = index + 1
         print(result)
 
-    print('Fim do jogo!')
+    print('Game over!')
 
 if (__name__ == '__main__'):
     play_forca()
