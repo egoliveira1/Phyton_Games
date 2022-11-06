@@ -1,6 +1,6 @@
 def play_forca():
     print('********************************')
-    print('** Bem vindo ao jogo de Forca **')
+    print('Welcome to the Hanged game! ****')
     print('********************************')
 
     secret_word = 'banana'

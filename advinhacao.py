@@ -1,9 +1,8 @@
 import random
 
-
 def play_advinhacao():
     print('********************************')
-    print('Bem vindo ao jogo de advinhação')
+    print('Welcome to the Guessing Game! **')
     print('********************************')
 
     secret_number = random.randrange(1, 101)

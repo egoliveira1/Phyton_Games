@@ -3,7 +3,7 @@ import advinhacao
 
 def choose_game():
     print('********************************')
-    print('** Welcome! Choose your game. **')
+    print('Welcome to Phyton Games! *******')
     print('********************************')
 
     print('(1) Forca (2) Advinhação')
